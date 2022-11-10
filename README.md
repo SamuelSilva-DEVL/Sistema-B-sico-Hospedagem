@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Explorando a linguagem C#
+# Sistema de Hospedagem C#
 www.dio.me
 
 ## Desafio de projeto
